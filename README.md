@@ -1,0 +1,1 @@
+# Gerador-Texto-WeTransfer
